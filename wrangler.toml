@@ -18,4 +18,3 @@ R2_PUBLIC_URL = "https://twikoo.r2.mingy.org"
 
 [dev]
 port = 5000
-
